@@ -320,6 +320,10 @@ footer {
     border-radius: 12px;
   }
 
+  .section-number-muted {
+    background: #8a94a3;
+  }
+
   .paper-card {
     padding: 21px 19px;
     border-radius: 17px;
